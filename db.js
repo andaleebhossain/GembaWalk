@@ -1,0 +1,3 @@
+answers = [];
+
+export default answers;
